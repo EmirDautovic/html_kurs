@@ -3,6 +3,7 @@ body{
     height: 100vh;
     flex-direction: column;
     margin: 0;
+    text-align: center;
 }
 #main {
     display: flex;
@@ -15,7 +16,7 @@ body{
     flex: 0 20vw;
     background: beige;
 }
-#main > aside {
+#main > div {
     flex: 0 20vw;
     background: beige;
 }
