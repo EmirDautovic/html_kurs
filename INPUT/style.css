@@ -1,0 +1,42 @@
+.main{
+    margin-top: 100px;
+    
+}
+.logo-img{
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-input{padding: 5px;
+    
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border: 1px solid gray;
+
+
+
+
+}
+.btn-wrapper{
+    margin-top: 20px;
+    margin-left: 390px;
+    
+    
+   
+
+}
+.btn{
+margin-left: 5px;
+margin-right: 5px;
+border-radius: 10px;
+padding: 5px;
+border: 1px solid gray;
+
+}
+
+

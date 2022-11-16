@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    padding: 28px;
+    color: green;
+}
+
+header{
+    color: aliceblue;
+    background-color: black;
+    height: 90px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+
+}
+ul{
+    float: right;
+    margin-top: -75px;
+    
+}
+li{
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+li:hover{
+
+    color: yellow;
+}
+
+img{
+
+width: 100%;}
+
+
+#banner h2{
+    position: absolute;
+    text-align: center;
+
+    top: 0;
+    width: 100%;
+}
+
+
